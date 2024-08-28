@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)]
+[![MasterHead](https://img.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-521.jpg?w=1060&t=st=1724867041~exp=1724867641~hmac=a1d56d4e1a4dba931f5a21c82427bfaea3f6281d2f61e6706e9561aa033c51f8)]
 <h1 align="center">Hi 👋, I'm Ananya Srivastava</h1>
 <h3 align="center">A Talented Java Developer driven to exceed customer expectations with cutting-edge applications</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2023/11/21/13/29/ai-generated-8403412_960_720.jpg">
